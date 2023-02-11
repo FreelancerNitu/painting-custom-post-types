@@ -1,0 +1,1 @@
+<?php //Slience Is Gold
